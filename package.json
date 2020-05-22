@@ -2,7 +2,6 @@
   "name": "caramel-web",
   "version": "0.1.0",
   "homepage": "http://caramel-web.cara.care",
-  "private": true,
   "dependencies": {
     "@cara-care/caramel": "^0.5.1",
     "react": "16.13.1",
