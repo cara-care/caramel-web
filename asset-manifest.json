@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/caramel-web/static/js/main.cd86298f.chunk.js",
-    "main.js.map": "/caramel-web/static/js/main.cd86298f.chunk.js.map",
-    "runtime-main.js": "/caramel-web/static/js/runtime-main.97cee17c.js",
-    "runtime-main.js.map": "/caramel-web/static/js/runtime-main.97cee17c.js.map",
-    "static/js/2.b08f991b.chunk.js": "/caramel-web/static/js/2.b08f991b.chunk.js",
-    "static/js/2.b08f991b.chunk.js.map": "/caramel-web/static/js/2.b08f991b.chunk.js.map",
-    "index.html": "/caramel-web/index.html",
-    "precache-manifest.cad9d20c3be6badaf53be0a4a08ce7d2.js": "/caramel-web/precache-manifest.cad9d20c3be6badaf53be0a4a08ce7d2.js",
-    "service-worker.js": "/caramel-web/service-worker.js",
-    "static/js/2.b08f991b.chunk.js.LICENSE.txt": "/caramel-web/static/js/2.b08f991b.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.cd86298f.chunk.js",
+    "main.js.map": "/static/js/main.cd86298f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1883107f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1883107f.js.map",
+    "static/js/2.c7508b8c.chunk.js": "/static/js/2.c7508b8c.chunk.js",
+    "static/js/2.c7508b8c.chunk.js.map": "/static/js/2.c7508b8c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2f4c947734aab12dec388f7094577d3b.js": "/precache-manifest.2f4c947734aab12dec388f7094577d3b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.c7508b8c.chunk.js.LICENSE.txt": "/static/js/2.c7508b8c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97cee17c.js",
-    "static/js/2.b08f991b.chunk.js",
+    "static/js/runtime-main.1883107f.js",
+    "static/js/2.c7508b8c.chunk.js",
     "static/js/main.cd86298f.chunk.js"
   ]
 }
