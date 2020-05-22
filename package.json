@@ -1,7 +1,7 @@
 {
   "name": "caramel-web",
   "version": "0.1.1",
-  "homepage": "http://caramel-web.cara.care",
+  "homepage": "https://caramel-web.cara.care",
   "dependencies": {
     "@cara-care/caramel": "^0.5.1",
     "react": "16.13.1",
